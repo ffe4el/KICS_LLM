@@ -1,0 +1,23 @@
+1. sulfa_list = ['sulfa', 'sulfa drugs', 'sulfonamide', 'sulfa antibiotics', 'sulfur drugs', 'sulfites', 'sulpha', 'sulfa based drugs', 'sulfa drug', 'sulfonamide antibiotics', 'sulfa abx', 'sulfa (rash)', 'sulfa (sulfonamide antibiotics)', 'environmental sulfa', 'sulfamethoprim', 'sulfur']
+
+2. penicillin_list = ['penicillin', 'pcn', 'penicillins', 'penicilin', 'penicilins', 'penicillian', 'pencillin', 'penecillin', 'penicillin (rash)', 'penicillin class', 'penicillins class', 'penicillin v']
+
+
+3. food_allergies = ['banana', 'peanut', 'wheat', 'strawberry', 'eggplant', 'garlic', 'onion', 'mango', 'walnuts', 'shrimp', 'raw bananas', 'swordfish', 'red wasps', 'fruit extracts', 'apples', 'fava beans', 'kiwi skin', 'raw strawberries', 'nectarine',  'peanuts', 'raisins', 'cashews (anaphylaxis)', 'honey dew melon', 'raw tree nuts', 'tuna oil', 'nuts', 'peanuts latex', 'raw nuts', 'green onion', 'raw onion', 'asparagus penicillin', 'tomatoes', 'potato starch', 'melon fruits', 'coconut', 'avocado', 'tree nuts (almonds)', 'gluten', 'egg whites', 'brown rice', 'tree fruit', 'dairy (lactose intolerant)', 'asiago cheese', 'potato starch', 'kiwi', 'fig', 'tomatillos', 'oat milk', 'raisins', 'eggs or egg-derived products', 'fig', 'persimmon', 'sweet peppers', 'asparagus', 'raw strawberries', 'asiago cheese', 'potato starch', 'dairy', 'most pitted fruits', 'tree nuts ', 'bark', 'red peppers', 'kumquats', 'parmasean', 'melon fruits', 'raw onion']
+
+4. seafood_and_shellfish = ['shrimp', 'lobster', 'crab', 'squid', 'clam', 'mussel', 'oyster', 'scallop', 'octopus', 'cuttlefish', 'anchovies', 'sardines', 'anchovies', 'sardines', 'fried seafood', 'shellfish', 'sea food', 'seafood', 'salmon', 'tuna', 'halibut', 'trout', 'swordfish', 'catfish']
+
+5. morphine = ['morphine', 'morphia', 'morphinum', 'morphin', 'morphium', 'morphiea', 'morphine (hives)’, ‘morphine (rash)’]
+
+6. codeline = ['codeline', 'codelin', 'codeine', 'codein', 'codenia', 'codeina', 'codeinum', ‘codeine (hives)’, ‘codeine (vomiting)’]
+ 
+7. latex & rubber = ['latex' , 'rubber']
+
+8. amoxicillin = ['amoxi','amoxicillin']
+
+9. erythromycin = ['erythromycin']
+
+10. dust = [‘dust’]
+
+11. mold = [‘mold’, ‘mite’, ‘dustmite’]
+
