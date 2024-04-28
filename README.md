@@ -3,5 +3,5 @@
 
 •	20개의 기저질환 리스트 및 해당 키워드 (MedicalHistory_Keyword_list.txt) <br>
 •	11개의 알러지 리스트 및 해당 키워드 (Allergies_Keyword_list.txt)<br>
-•	COVID-19 백신 접종자들의 데이터 (53M_KICS.csv)<br>
+•	COVID-19 백신 접종자들의 데이터 (KICS.csv)<br>
 
